@@ -1,3 +1,14 @@
+# 專案指引
+
+## 摘要
+
+[原始館藏](https://github.com/whyjz/rime-moetaigi)
+
+《rime-moetaigi 萌台語》是 Rime輸入法平台，可順暢操作使用的「方音符號」輸入法。
+然目前在操作使用方面，仍有可改善之空間。先來做些實驗，看看自己是否有辦法加以改善
+，以便能協助原作者加速本輸入法的改善，使本輸入法可於「方音符號」使用者間，更加大
+力推廣。
+
 # rime-moetaigi 萌台語: 基於萌典 API 的 RIME 臺語輸入法
 
 萌台語是[中州韻輸入法引擎 (Rime)](https://rime.im/) 的台語輸入法方案，建立在從[萌典 API](https://www.moedict.tw/about.html) 取得的《[臺灣閩南語常用詞辭典](https://twblg.dict.edu.tw/)》兩萬多筆詞條與其發音，讓您使用注音符號（[臺語方音符號](https://zh.wikipedia.org/wiki/%E8%87%BA%E7%81%A3%E6%96%B9%E9%9F%B3%E7%AC%A6%E8%99%9F)）輕鬆輸入台語。
